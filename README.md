@@ -1,2 +1,1 @@
-# 143ily143.github.
-zfugu
+# 143ily143.github.io
