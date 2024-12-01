@@ -16,8 +16,11 @@ a	{
 	font-family: Helvetica;
 }
 
-img {
-	text-align: center;
+.centerimg {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
 }
 
 .center	{
